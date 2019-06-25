@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
-	<title type="html"><![CDATA[Odds & Ends Kenya: Latest News]]></title>
-	<subtitle type="html"><![CDATA[The latest news from Odds & Ends Kenya.]]></subtitle>
+	<title type="html"><![CDATA[Big Timber Concept Kenya: Latest News]]></title>
+	<subtitle type="html"><![CDATA[The latest news from Big Timber Concept Kenya.]]></subtitle>
 	<link rel="self" href="http://oddskenya.com/rss.php?action=newblogs&amp;type=atom" />
 	<id>https://oddskenya.com</id>
 	<updated>2019-06-24T10:34:49Z</updated>
-			<isc:store_title><![CDATA[Odds & Ends Kenya]]></isc:store_title>
+			<isc:store_title><![CDATA[Big Timber Concept Kenya]]></isc:store_title>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2014-02-15T19:46:34Z</published>
 		<updated>2014-02-15T19:46:34Z</updated>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
 	<channel>
-		<title><![CDATA[Odds & Ends Kenya: Latest News]]></title>
+		<title><![CDATA[Big Timber Concept Kenya: Latest News]]></title>
 		<link>https://oddskenya.com</link>
-		<description><![CDATA[The latest news from Odds & Ends Kenya.]]></description>
+		<description><![CDATA[The latest news from Big Timber Concept Kenya.]]></description>
 		<pubDate>Mon, 24 Jun 2019 10:34:48 +0000</pubDate>
-		<isc:store_title><![CDATA[Odds & Ends Kenya]]></isc:store_title>
+		<isc:store_title><![CDATA[Big Timber Concept Kenya]]></isc:store_title>
 		<item>
 			<title><![CDATA[Your first blog post!]]></title>
 			<link>https://oddskenya.com/your-first-blog-post/</link>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
-	<title type="html"><![CDATA[Odds & Ends Kenya: Popular Products]]></title>
-	<subtitle type="html"><![CDATA[A list of the popular products at Odds & Ends Kenya.]]></subtitle>
+	<title type="html"><![CDATA[Big Timber Concept Kenya: Popular Products]]></title>
+	<subtitle type="html"><![CDATA[A list of the popular products at Big Timber Concept Kenya.]]></subtitle>
 	<link rel="self" href="http://oddskenya.com/rss.php?action=popularproducts&amp;type=atom" />
 	<id>https://oddskenya.com</id>
 	<updated>2019-06-24T10:34:55Z</updated>
-			<isc:store_title><![CDATA[Odds & Ends Kenya]]></isc:store_title>
+			<isc:store_title><![CDATA[Big Timber Concept Kenya]]></isc:store_title>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2019-06-22T10:11:24Z</published>
 		<updated>2019-06-22T10:11:24Z</updated>

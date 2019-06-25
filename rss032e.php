@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
 	<channel>
-		<title><![CDATA[Odds & Ends Kenya: Featured Products]]></title>
+		<title><![CDATA[Big Timber Concept Kenya: Featured Products]]></title>
 		<link>https://oddskenya.com</link>
-		<description><![CDATA[A list of the featured products at Odds & Ends Kenya.]]></description>
+		<description><![CDATA[A list of the featured products at Big Timber Concept Kenya.]]></description>
 		<pubDate>Mon, 24 Jun 2019 10:34:50 +0000</pubDate>
-		<isc:store_title><![CDATA[Odds & Ends Kenya]]></isc:store_title>
+		<isc:store_title><![CDATA[Big Timber Concept Kenya]]></isc:store_title>
 		<item>
 			<title><![CDATA[Phoebe Bar Counter + 3Pcs George Bar Stool in Green Velvet]]></title>
 			<link>https://oddskenya.com/phoebe-bar-counter-3pcs-george-bar-stool-in-green-velvet/</link>
